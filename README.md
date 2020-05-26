@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-native-splash-screen
 
 
@@ -318,3 +319,6 @@ Pull requests are welcome. If you want to change the API or do something big it 
 ---
 
 **[MIT Licensed](https://github.com/crazycodeboy/react-native-splash-screen/blob/master/LICENSE)**
+=======
+# react-native-splash-screen
+>>>>>>> a264a6e246a56a1b70e954436e99030d65a6f389
