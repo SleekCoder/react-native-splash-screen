@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # react-native-splash-screen
 
 
